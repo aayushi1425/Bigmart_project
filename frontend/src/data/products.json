@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "image": "/src/assets/tshirt-black.png",
+    "name": "T-shirt with Tape Details",
+    "rating": 4.5,
+    "price": 120
+  },
+  {
+    "id": 2,
+    "image": "/src/assets/checkered-shirt.png",
+    "name": "Checkered Shirt",
+    "rating": 4.5,
+    "price": 180
+  },
+  {
+    "id": 3,
+    "image": "/src/assets/bermuda-shorts.png",
+    "name": "Loose Fit Bermuda Shorts",
+    "rating": 3.0,
+    "price": 80
+  },
+  {
+    "id": 4,
+    "image": "/src/assets/black-backpack.png",
+    "name": "Black Waterproof Bag",
+    "rating": 3.0,
+    "price": 120
+  },
+  {
+    "id": 5,
+    "image": "/src/assets/prime-chair.png",
+    "name": "Soft Cushion prime chair",
+    "rating": 3.0,
+    "price": 200
+  },
+  {
+    "id": 6,
+    "image": "/src/assets/valpeuate-headphones.png",
+    "name": "Lectus Valpeuate",
+    "rating": 3.0,
+    "price": 650
+  },
+  {
+    "id": 7,
+    "image": "/src/assets/dslr-camera.png",
+    "name": "Cras scelerisque velit",
+    "rating": 3.0,
+    "price": 1000
+  },
+  {
+    "id": 8,
+    "image": "/src/assets/analog-watch.png",
+    "name": "Big Dial watch Analog",
+    "rating": 3.0,
+    "price": 540
+  }
+] 
